@@ -9,4 +9,4 @@ madina227/madina227 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=madina227&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-madina227)
+[![trophy](https://github-profile-trophy.vercel.app/?username=madina227&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-ryoma)
